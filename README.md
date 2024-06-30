@@ -3,6 +3,8 @@
 This repo contains our solution for the INFOMDIS Data Intensive System Project for the year 2023-24, which was to identify and group similar
 process instances present on a hypothetical network provider's logs. 
 
+The solution was built and tested using Python, PySpark on VSCode. 
+
 To run: 
 
 Create Virtual Environment:  
