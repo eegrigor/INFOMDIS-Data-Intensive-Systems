@@ -46,8 +46,8 @@ process.
 * part1Output.txt Contains a new representation for every
 group found. 
 
-We have also provided you our results for Task 1. The result files are formatted as *[part1Observations/part1Output]_[number_of_servers]_[connections]_[number_cases]_[max_requests].txt*. These can be found in `/Data/task1-outputs`folder.
+We have also provided you our results for Task 1. The result files are formatted as *[part1Observations/part1Output]_[number_of_servers]_[connections]_[number_cases]_[max_requests].txt*. These can be found in `/Data`folder.
 
 ## Task 2 
 
-In the same way, you should run `task2.ipynb` to obtain the results for the Task 2. You should only determine the wanted cluster_number which is the number of total clusters for the clustering algorithm. The output of the clustering algorithm is written in the part2Observations.txt file inside of the `/output`. We have also provided some results of our experiments for Task 2. Resulting files are in the format:*[part2Observations]_[number_of_servers]_[connections]_[number_cases]_[max_requests]_[cluster_number].txt*. These can be found in `/Data/task2-outputs`folder.
+In the same way, you should run `task2.ipynb` to obtain the results for the Task 2. You should only determine the wanted cluster_number which is the number of total clusters for the clustering algorithm. The output of the clustering algorithm is written in the part2Observations.txt file inside of the `/output`. We have also provided some results of our experiments for Task 2. Resulting files are in the format:*[part2Observations]_[number_of_servers]_[connections]_[number_cases]_[max_requests]_[cluster_number].txt*. These can be found in `/Data` folder.
